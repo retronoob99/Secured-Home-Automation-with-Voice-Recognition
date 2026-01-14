@@ -43,6 +43,12 @@ Python libraries used in code: pyaudio, numpy, scikit-learn, scipy, python_speec
 The project reports initial testing on the TensorFlow Speech Commands dataset and later a custom dataset recorded from 40 students with variations (near/far mic, slow/fast pace).
 ​
 MFCC (Mel-Frequency Cepstral Coefficients) features are used for training and recognition.
+
+This project was a prototype and research oriented and tested on real human data and because of that the entries of the dataset are less and the dataset can't be provided as its a NDA signed data.
+
+# Workflow
+<img width="522" height="273" alt="image" src="https://github.com/user-attachments/assets/0c3fdbdd-c89e-4550-aa70-d7de5521ab11" />
+
 ​
 
 # Repository structure (expected)
@@ -102,10 +108,13 @@ Test model
 During recording, it prints available input devices and prompts for the device index.
 ​
 
-# Results (from pdf)
-The report includes evaluation using datasets with “80 variations” and “60 variations” per the described recording setup and trial tables.
+# Results 
+The  evaluation using datasets with “80 variations” and “60 variations” per the described recording setup and trial tables.
 ​
 Performance is reported using an accuracy formula: (Number of Correct Output / Number of Trials) × 100.
+
+<img width="1122" height="535" alt="image" src="https://github.com/user-attachments/assets/9bcb54ae-d5e6-4796-a6e8-d6d4695c6c67" />
+
 ​
 
 # Limitations
