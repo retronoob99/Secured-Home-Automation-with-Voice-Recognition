@@ -30,6 +30,10 @@ Microphone + sound card (as listed in the project).
 ​
 
 Relay module + LED (or other appliance load via relay).
+
+# Prototype picture
+<img width="1020" height="646" alt="on" src="https://github.com/user-attachments/assets/3ed92d81-3e32-4e79-aab8-3974c366705e" />
+
 ​
 
 # Software / environment
